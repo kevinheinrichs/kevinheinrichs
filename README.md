@@ -10,16 +10,33 @@
 
 ### 💡 Über mich
 - 🏠 **Base:** Dubai (ursprünglich aus Deutschland)  
-- 🛒 **Business:** Entwicklung & Skalierung von **E-Commerce-Shops** mit **WordPress/WooCommerce**  
-- 🧰 **Toolset:** WordPress, **WooCommerce**, Bricks Builder & Automationen mit **n8n** ; Monitoring eigener Services  
+- 🛒 **Business:** Planung, Aufbau & Skalierung von **WooCommerce**-Stores mit **WordPress** & **Bricks Builder**
+- ⚙️ **Tech-Stack (Kern):** PHP / **PHP-FPM**, **Nginx** auf **Linux** (**Ubuntu** / **Debian**), **MySQL**, **OPcache**, **Redis** (Object Cache)
+- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Server)
+- 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack**-Alerts, **WP-CLI**, **WP CRON**
+- 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** (Performance-Tracking, Feed-/Event-Pipelines)
+- 🧩 **CRM & Forms:** **FluentCRM**, **FluentSMTP**, **FluentSupport**, **FluentForms**, **FluentCommunity**, **FluentAffiliate**, **FluentCart**
+- 🧠 **AI & Agents:** **OpenAI API**, **ChatGPT**, **MCP** (Model Context Protocol) für WP-/Woo-Integrationen
+- 🛡️ **Ops & Monitoring:** **Uptime Kuma**, **GitHub Actions**, **SSH/SFTP**, **phpMyAdmin**, **WPvivid** (Backups)
 
 ---
 
 ### 🧱 Was ich baue
-- **High-Converting Stores:** Saubere Informationsarchitektur, schnelle Ladezeiten, klare Checkout-Flows  
-- **Automationen:** Bestell- & Fulfillment-Workflows, Webhooks, CRM-Sync, Mailflows  
-- **Analytics:** klare KPIs, UTM-Hygiene, Cohort-Blick statt Vanity Metrics  
-- **A/B-Denke:** Hypothesen → Test → Learn → Scale
+- **High-Converting Stores:** klare IA, schnelle Templates mit **Bricks**, saubere Checkout-Flows
+- **Performance-Layer:** **Nginx** + **PHP-FPM**, **OPcache**, **Redis** Object Cache, **Cloudflare** CDN/Rules → <200 ms TTFB-Ziel
+- **Edge & Security:** Caching-Strategien, Rate-Limits, Header-Hygiene & stabile Asset-Pipelines
+- **Automationen:** **n8n**/**FlowMattic**-Workflows, **Webhooks**, CRM-Sync (**FluentCRM**), Slack-Benachrichtigungen
+- **Data & Tracking:** **GTM**-Setups, **GA4**-Events, **Google Ads**-Konnektoren, UTM-Hygiene & Server-Side-Denke
+- **Tooling & Ops:** **GitHub Actions** (CI/CD), **WP-CLI** Tasks, **WP CRON** Jobs, **Uptime Kuma** Monitoring, **WPvivid** Backups
+- **AI-Use-Cases:** Content-Hilfen, Support-Assists & interne Tools via **OpenAI API**, **ChatGPT** & **MCP** (WP/Woo)
+- **A/B-Denke:** Hypothese → Test → Learn → Scale (KPI-geführt, ohne Vanity-Metrics)
+
+---
+
+### 🔒 Besonderheit: Skalierbar & Self-Hosted
+Ich setze bewusst auf **skalierbare, modulare Tools** - wann immer möglich **self-hosted und selbst gemanagt**. So behalte ich **Datenhoheit**, reduziere **Vendor-Lock-in** und optimiere **Kosten**.
+
+Infrastruktur, Security, Observability (Monitoring, Logs, Alerts) und Deployments liegen vollständig in meiner Hand - für **Performance, Verlässlichkeit** und schnelle Iterationen ohne Abhängigkeiten.
 
 ---
 
@@ -69,6 +86,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4D5A?logo=qdrant&logoColor=white" alt="Qdrant" />
 </p>
 
 ---
