@@ -91,7 +91,7 @@ Infrastruktur, Security, Observability (Monitoring, Logs, Alerts) und Deployment
 
 ---
 
-<h3 align="center">Social Media Links & Kontakt:</h3>
+<h3 align="center">Social Media Links & Kontakt</h3>
 
 <p align="center">
   <a href="https://www.kevinheinrichs.com" target="_blank">
