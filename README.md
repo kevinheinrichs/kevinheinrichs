@@ -95,7 +95,7 @@ Infrastruktur, Security, Observability (Monitoring, Logs, Alerts) und Deployment
 
 <p align="center">
   👉<a href="https://www.kevinheinrichs.com" target="_blank">
-    <strong>Kevin Heinrichs</strong>
+    <b>Kevin Heinrichs</b>
   </a>👈
 </p>
 
