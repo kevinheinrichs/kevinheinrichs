@@ -2,7 +2,7 @@
 <h1 align="center">Hey, ich bin Kevin <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
 
 <p align="center">
-  Unternehmer aus Deutschland, lebend in Dubai<br>
+  Unternehmer aus Deutschland, lebend in Dubai<br><br>
   Ich baue E-Commerce-Brands (WordPress/WooCommerce)
 </p>
 
