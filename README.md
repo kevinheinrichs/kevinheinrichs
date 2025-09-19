@@ -40,7 +40,7 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
 
 ---
 
-### ⚙️ Stack & Lieblings-Bausteine
+### ⚙️ Stack & Favorite Building Blocks
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" alt="WooCommerce" />
