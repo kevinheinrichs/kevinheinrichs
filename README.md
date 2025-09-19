@@ -83,6 +83,7 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
   <img src="https://img.shields.io/badge/SSH-333333" alt="SSH" />
   <img src="https://img.shields.io/badge/SFTP-0EA5E9" alt="SFTP" />
   <img src="https://img.shields.io/badge/phpMyAdmin-F89820?logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/pCloud-1893FE?logo=pcloud&logoColor=white" alt="pCloud" />
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white" alt="Hetzner" />
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
