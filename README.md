@@ -1,42 +1,42 @@
 ![logo](https://github.com/kevinheinrichs/kevinheinrichs/blob/main/kevinheinrichs-dubai.png?raw=true)
-<h1 align="center">Hey, ich bin Kevin <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
+<h1 align="center">Hey, I’m Kevin <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
 
 <p align="center">
-  Unternehmer aus Deutschland, lebend in Dubai<br><br>
-  Ich baue E-Commerce-Brands (WordPress/WooCommerce)
+  Entrepreneur from Germany, living in Dubai<br><br>
+  I build E-Commerce brands (WordPress/WooCommerce)
 </p>
 
 ---
 
-### 💡 Über mich
-- 🏠 **Base:** Dubai (ursprünglich aus Deutschland)  
-- 🛒 **Business:** Planung, Aufbau & Skalierung von **WooCommerce**-Stores mit **WordPress** & **Bricks Builder**
-- ⚙️ **Tech-Stack (Kern):** PHP / **PHP-FPM**, **Nginx** auf **Linux** (**Ubuntu** / **Debian**), **MySQL**, **OPcache**, **Redis** (Object Cache)
-- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Server)
-- 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack**-Alerts, **WP-CLI**, **WP CRON**
-- 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** (Performance-Tracking, Feed-/Event-Pipelines)
+### 💡 About Me
+- 🏠 **Base:** Dubai (originally from Germany)  
+- 🛒 **Business:** Planning, building & scaling **WooCommerce** stores with **WordPress** & **Bricks Builder**
+- ⚙️ **Core Tech Stack:** PHP / **PHP-FPM**, **Nginx** on **Linux** (**Ubuntu** / **Debian**), **MySQL**, **OPcache**, **Redis** (Object Cache)
+- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Servers)
+- 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack** alerts, **WP-CLI**, **WP CRON**
+- 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** (performance tracking, feed-/event-pipelines)
 - 🧩 **CRM & Forms:** **FluentCRM**, **FluentSMTP**, **FluentSupport**, **FluentForms**, **FluentCommunity**, **FluentAffiliate**, **FluentCart**
-- 🧠 **AI & Agents:** **OpenAI API**, **ChatGPT**, **MCP** (Model Context Protocol) für WP-/Woo-Integrationen
+- 🧠 **AI & Agents:** **OpenAI API**, **ChatGPT**, **MCP** (Model Context Protocol) for WP/Woo integrations
 - 🛡️ **Ops & Monitoring:** **Uptime Kuma**, **GitHub Actions**, **SSH/SFTP**, **phpMyAdmin**, **WPvivid** (Backups)
 
 ---
 
-### 🧱 Was ich baue
-- **High-Converting Stores:** klare IA, schnelle Templates mit **Bricks**, saubere Checkout-Flows
-- **Performance-Layer:** **Nginx** + **PHP-FPM**, **OPcache**, **Redis** Object Cache, **Cloudflare** CDN/Rules → <200 ms TTFB-Ziel
-- **Edge & Security:** Caching-Strategien, Rate-Limits, Header-Hygiene & stabile Asset-Pipelines
-- **Automationen:** **n8n**/**FlowMattic**-Workflows, **Webhooks**, CRM-Sync (**FluentCRM**), Slack-Benachrichtigungen
-- **Data & Tracking:** **GTM**-Setups, **GA4**-Events, **Google Ads**-Konnektoren, UTM-Hygiene & Server-Side-Denke
-- **Tooling & Ops:** **GitHub Actions** (CI/CD), **WP-CLI** Tasks, **WP CRON** Jobs, **Uptime Kuma** Monitoring, **WPvivid** Backups
-- **AI-Use-Cases:** Content-Hilfen, Support-Assists & interne Tools via **OpenAI API**, **ChatGPT** & **MCP** (WP/Woo)
-- **A/B-Denke:** Hypothese → Test → Learn → Scale (KPI-geführt, ohne Vanity-Metrics)
+### 🧱 What I Build
+- **High-Converting Stores:** clear IA, fast templates with **Bricks**, clean checkout flows
+- **Performance Layer:** **Nginx** + **PHP-FPM**, **OPcache**, **Redis** object cache, **Cloudflare** CDN/Rules → <200 ms TTFB target
+- **Edge & Security:** caching strategies, rate limits, header hygiene & stable asset pipelines
+- **Automations:** **n8n**/**FlowMattic** workflows, **Webhooks**, CRM sync (**FluentCRM**), Slack notifications
+- **Data & Tracking:** **GTM** setups, **GA4** events, **Google Ads** connectors, UTM hygiene & server-side mindset
+- **Tooling & Ops:** **GitHub Actions** (CI/CD), **WP-CLI** tasks, **WP CRON** jobs, **Uptime Kuma** monitoring, **WPvivid** backups
+- **AI Use Cases:** content assistance, support bots & internal tools via **OpenAI API**, **ChatGPT** & **MCP** (WP/Woo)
+- **A/B Thinking:** Hypothesis → Test → Learn → Scale (KPI-driven, avoiding vanity metrics)
 
 ---
 
-### 🔒 Besonderheit: Skalierbar & Self-Hosted
-Ich setze bewusst auf **skalierbare, modulare Tools** - wann immer möglich **self-hosted und selbst gemanagt**. So behalte ich **Datenhoheit**, reduziere **Vendor-Lock-in** und optimiere **Kosten**.
+### 🔒 Special Feature: Scalable & Self-Hosted
+I deliberately rely on **scalable, modular tools** - whenever possible **self-hosted and self-managed**. This way, I maintain **data sovereignty**, reduce **vendor lock-in**, and optimize **costs**.
 
-Infrastruktur, Security, Observability (Monitoring, Logs, Alerts) und Deployments liegen vollständig in meiner Hand - für **Performance, Verlässlichkeit** und schnelle Iterationen ohne Abhängigkeiten.
+Infrastructure, security, observability (monitoring, logs, alerts), and deployments are fully under my control - ensuring **performance, reliability**, and rapid iterations without dependencies.
 
 ---
 
@@ -91,7 +91,7 @@ Infrastruktur, Security, Observability (Monitoring, Logs, Alerts) und Deployment
 
 ---
 
-<h3 align="center">Social Media Links & Kontakt</h3>
+<h3 align="center">Social Media Links & Contact</h3>
 
 <p align="center">
   👉<a href="https://www.kevinheinrichs.com" target="_blank">
