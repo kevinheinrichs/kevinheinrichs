@@ -76,6 +76,7 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
   <img src="https://img.shields.io/badge/ChatGPT-000000?logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Uptime%20Kuma-0ea5e9" alt="Uptime Kuma" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" alt="Visual Studio" />
