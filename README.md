@@ -1,5 +1,5 @@
 ![logo](https://github.com/kevinheinrichs/kevinheinrichs/blob/main/kevinheinrichs-dubai.png?raw=true)
-<h1 align="center">Hey, I’m Kevin <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
+<h1 align="center">Hey, I’m Kevin Heinrichs <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
 
 <p align="center">
   Entrepreneur from Germany, living in Dubai<br><br>
