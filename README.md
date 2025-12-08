@@ -12,7 +12,7 @@
 - 🏠 **Base:** Dubai (originally from Germany)  
 - 🛒 **Business:** Planning, building & scaling **WooCommerce** stores with **WordPress** & **Bricks Builder**
 - ⚙️ **Core Tech Stack:** PHP / **PHP-FPM**, **Nginx** on **Linux** (**Ubuntu** / **Debian**), **MySQL**, **OPcache**, **Redis** (Object Cache)
-- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Servers)
+- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Servers), **xCloud (Managed Hosting & Server Management)**
 - 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack** alerts, **WP-CLI**, **WP CRON**
 - 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** (performance tracking, feed-/event-pipelines)
 - 🧩 **CRM & Forms:** **FluentCRM**, **FluentSMTP**, **FluentSupport**, **FluentForms**, **FluentCommunity**, **FluentAffiliate**, **FluentCart**
