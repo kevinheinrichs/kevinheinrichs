@@ -22,8 +22,8 @@
 ---
 
 ### 🧱 What I Build
-- **High-Converting Stores:** clear IA, fast templates with **Bricks**, clean checkout flows
-- **Performance Layer:** **Nginx** + **PHP-FPM**, **OPcache**, **Redis** object cache, **Cloudflare** CDN/Rules → <200 ms TTFB target
+- **High-Converting Stores:** clear IA, fast & dynamic templates with **Bricks**, clean checkout flows
+- **Performance Layer:** **Nginx** + **PHP-FPM**, **OPcache**, **Redis** object cache, **Cloudflare** CDN/Rules → <50 ms TTFB target
 - **Edge & Security:** caching strategies, rate limits, header hygiene & stable asset pipelines
 - **Automations:** **n8n**/**FlowMattic** workflows, **Webhooks**, CRM sync (**FluentCRM**), Slack notifications
 - **Data & Tracking:** **GTM** setups, **GA4** events, **Google Ads** connectors, UTM hygiene & server-side mindset
