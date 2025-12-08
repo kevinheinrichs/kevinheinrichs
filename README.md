@@ -14,9 +14,9 @@
 - ⚙️ **Core Tech Stack:** PHP / **PHP-FPM**, **Nginx** on **Linux** (**Ubuntu** / **Debian**), **MySQL**, **OPcache**, **Redis** (Object Cache)
 - 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Servers), **xCloud (Managed Hosting & Server Management)**
 - 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack** alerts, **WP-CLI**, **WP CRON**
-- 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** (performance tracking, feed-/event-pipelines)
+- 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** & **Meta** (performance tracking, feed-/event-pipelines)
 - 🧩 **CRM & Forms:** **FluentCRM**, **FluentSMTP**, **FluentSupport**, **FluentForms**, **FluentCommunity**, **FluentAffiliate**, **FluentCart**
-- 🧠 **AI & Agents:** **OpenAI API**, **ChatGPT**, **MCP** (Model Context Protocol) for WP/Woo integrations
+- 🧠 **AI & Agents:** **OpenAI**, **Gemini**, **MCP** (Model Context Protocol) for WP/Woo integrations
 - 🛡️ **Ops & Monitoring:** **Uptime Kuma**, **GitHub Actions**, **SSH/SFTP**, **phpMyAdmin**, **WPvivid** (Backups)
 
 ---
@@ -25,7 +25,7 @@
 - **High-Converting Stores:** clear IA, fast & dynamic templates with **Bricks**, clean checkout flows
 - **Performance Layer:** **Nginx** + **PHP-FPM**, **OPcache**, **Redis** object cache, **Cloudflare** CDN/Rules → <50 ms TTFB target
 - **Edge & Security:** caching strategies, rate limits, header hygiene & stable asset pipelines
-- **Automations:** **n8n**/**FlowMattic** workflows, **Webhooks**, CRM sync (**FluentCRM**), Slack notifications
+- **Automations:** **n8n**/**FlowMattic** workflows, **Webhooks**, CRM sync (**FluentCRM**), Support sync (**FluentSupport**), Slack notifications
 - **Data & Tracking:** **GTM** setups, **GA4** events, **Google Ads** connectors, UTM hygiene & server-side mindset
 - **Tooling & Ops:** **GitHub Actions** (CI/CD), **WP-CLI** tasks, **WP CRON** jobs, **Uptime Kuma** monitoring, **WPvivid** backups
 - **AI Use Cases:** content assistance, support bots & internal tools via **OpenAI API**, **ChatGPT** & **MCP** (WP/Woo)
