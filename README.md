@@ -141,14 +141,6 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinheinrichs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
