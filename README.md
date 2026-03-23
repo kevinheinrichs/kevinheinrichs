@@ -1,5 +1,9 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kevinheinrichs&color=6D28D9&style=flat-square" alt="Profile Views" />
+</p>
+
 ![logo](https://github.com/kevinheinrichs/kevinheinrichs/blob/main/kevinheinrichs-dubai.png?raw=true)
-<h1 align="center">Hey, I’m Kevin Heinrichs <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
+<h1 align="center">Hey, I'm Kevin Heinrichs <img src="https://github.com/kevinheinrichs/kevinheinrichs/blob/main/wave.gif?raw=true" width="30"></h1>
 
 <p align="center">
   Entrepreneur from Germany, living in Dubai<br><br>
@@ -9,14 +13,14 @@
 ---
 
 ### 💡 About Me
-- 🏠 **Base:** Dubai (originally from Germany)  
+- 🏠 **Base:** Dubai (originally from Germany)
 - 🛒 **Business:** Planning, building & scaling **WooCommerce** stores with **WordPress** & **Bricks Builder**
 - ⚙️ **Core Tech Stack:** PHP / **PHP-FPM**, **Nginx** on **Linux** (**Ubuntu** / **Debian**), **MySQL**, **OPcache**, **Redis** (Object Cache)
-- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Servers), **xCloud (Managed Hosting & Server Management)**
+- 🌐 **Edge & Hosting:** **Cloudflare** (DNS, CDN), **Hetzner** (Servers), **xCloud** (Managed Hosting & Server Management)
 - 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack** alerts, **WP-CLI**, **WP CRON**
 - 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** & **Meta** (performance tracking, feed-/event-pipelines)
 - 🧩 **CRM & Forms:** **FluentCRM**, **FluentSMTP**, **FluentSupport**, **FluentForms**, **FluentCommunity**, **FluentAffiliate**, **FluentCart**
-- 🧠 **AI & Agents:** **OpenAI**, **Gemini**, **MCP** (Model Context Protocol) for WP/Woo integrations
+- 🤖 **AI & Agents:** Self-hosted AI agent platform via **[OpenClaw](https://openclaw.ai)** — personal assistants, work agents, mail & research bots running on own infra · **Claude** (Anthropic), **OpenAI**, **Gemini**, **MCP** (Model Context Protocol)
 - 🛡️ **Ops & Monitoring:** **Uptime Kuma**, **GitHub Actions**, **SSH/SFTP**, **phpMyAdmin**, **WPvivid** (Backups)
 
 ---
@@ -28,15 +32,18 @@
 - **Automations:** **n8n**/**FlowMattic** workflows, **Webhooks**, CRM sync (**FluentCRM**), Support sync (**FluentSupport**), Slack notifications
 - **Data & Tracking:** **GTM** setups, **GA4** events, **Google Ads** connectors, UTM hygiene & server-side mindset
 - **Tooling & Ops:** **GitHub Actions** (CI/CD), **WP-CLI** tasks, **WP CRON** jobs, **Uptime Kuma** monitoring, **WPvivid** backups
-- **AI Use Cases:** content assistance, support bots & internal tools via **OpenAI API**, **ChatGPT** & **MCP** (WP/Woo)
+- **AI Agent Infrastructure:** Self-hosted **[OpenClaw](https://openclaw.ai)** platform with personal, work, mail & research agents — powered by **Claude** (Anthropic), **OpenAI** & **Gemini**, running fully on own infra
 - **A/B Thinking:** Hypothesis → Test → Learn → Scale (KPI-driven, avoiding vanity metrics)
 
 ---
 
-### 🔒 Special Feature: Scalable & Self-Hosted
-I deliberately rely on **scalable, modular tools** - whenever possible **self-hosted and self-managed**. This way, I maintain **data sovereignty**, reduce **vendor lock-in**, and optimize **costs**.
+### 🔒 Self-Hosted & Sovereign — by Design
 
-Infrastructure, security, observability (monitoring, logs, alerts), and deployments are fully under my control - ensuring **performance, reliability**, and rapid iterations without dependencies.
+I deliberately rely on **scalable, modular tools** — whenever possible **self-hosted and self-managed**. This way, I maintain **data sovereignty**, reduce **vendor lock-in**, and optimize **costs**.
+
+This extends beyond E-Commerce infrastructure to my **entire AI stack**: I run **[OpenClaw](https://openclaw.ai)** — a self-hosted AI agent platform — on my own servers. Personal assistants, work agents, mail bots and research agents operate fully under my control, powered by **Claude** (Anthropic), **OpenAI** and **Gemini** models.
+
+Infrastructure, security, observability (monitoring, logs, alerts), and deployments are fully under my control — ensuring **performance, reliability**, and rapid iterations without dependencies.
 
 ---
 
@@ -60,6 +67,11 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
   <img src="https://img.shields.io/badge/FluentCart-111111" alt="FluentCart" />
   <img src="https://img.shields.io/badge/FlowMattic-0b7285" alt="FlowMattic" />
   <img src="https://img.shields.io/badge/n8n-AE275F?logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenClaw-6D28D9?logoColor=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-D97706?logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-000000?logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/MCP-0A0A0A" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/Analytics-Data%20Driven-343a40" alt="Analytics" />
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
@@ -72,8 +84,6 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
   <img src="https://img.shields.io/badge/WP--CLI-23282D" alt="WP-CLI" />
   <img src="https://img.shields.io/badge/WP%20CRON-374151" alt="WP CRON" />
   <img src="https://img.shields.io/badge/Webhooks-111111" alt="Webhooks" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-000000?logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Uptime%20Kuma-0ea5e9" alt="Uptime Kuma" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
@@ -93,6 +103,16 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinheinrichs&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinheinrichs&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 <h3 align="center">Social Media Links & Contact</h3>
 
 <p align="center">
@@ -100,5 +120,3 @@ Infrastructure, security, observability (monitoring, logs, alerts), and deployme
     <b>Kevin Heinrichs</b>
   </a>👈
 </p>
-
----
