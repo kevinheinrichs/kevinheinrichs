@@ -20,7 +20,7 @@
 - 🔄 **Automation:** **n8n**, **FlowMattic**, **Webhooks**, **Slack** alerts, **WP-CLI**, **WP CRON**
 - 📈 **Data & Growth:** **GA4**, **Google Tag Manager**, **Google Ads** & **Meta** (performance tracking, feed-/event-pipelines)
 - 🧩 **CRM & Forms:** **FluentCRM**, **FluentSMTP**, **FluentSupport**, **FluentForms**, **FluentCommunity**, **FluentAffiliate**, **FluentCart**
-- 🤖 **AI & Agents:** Self-hosted AI agent platform via **[OpenClaw](https://openclaw.ai)** — personal assistants, work agents, mail & research bots running on own infra · **Claude** (Anthropic), **OpenAI**, **Gemini**, **MCP** (Model Context Protocol)
+- 🤖 **AI & Agents:** Self-hosted AI agent platform via **OpenClaw** — personal assistants, work agents, mail & research bots running on own infra · **Claude** (Anthropic), **OpenAI**, **Gemini**, **MCP** (Model Context Protocol)
 - 🛡️ **Ops & Monitoring:** **Uptime Kuma**, **GitHub Actions**, **SSH/SFTP**, **phpMyAdmin**, **WPvivid** (Backups)
 
 ---
@@ -32,7 +32,7 @@
 - **Automations:** **n8n**/**FlowMattic** workflows, **Webhooks**, CRM sync (**FluentCRM**), Support sync (**FluentSupport**), Slack notifications
 - **Data & Tracking:** **GTM** setups, **GA4** events, **Google Ads** connectors, UTM hygiene & server-side mindset
 - **Tooling & Ops:** **GitHub Actions** (CI/CD), **WP-CLI** tasks, **WP CRON** jobs, **Uptime Kuma** monitoring, **WPvivid** backups
-- **AI Agent Infrastructure:** Self-hosted **[OpenClaw](https://openclaw.ai)** platform with personal, work, mail & research agents — powered by **Claude** (Anthropic), **OpenAI** & **Gemini**, running fully on own infra
+- **AI Agent Infrastructure:** Self-hosted **OpenClaw** platform with personal, work, mail & research agents — powered by **Claude** (Anthropic), **OpenAI** & **Gemini**, running fully on own infra
 - **A/B Thinking:** Hypothesis → Test → Learn → Scale (KPI-driven, avoiding vanity metrics)
 
 ---
@@ -41,7 +41,7 @@
 
 I deliberately rely on **scalable, modular tools** — whenever possible **self-hosted and self-managed**. This way, I maintain **data sovereignty**, reduce **vendor lock-in**, and optimize **costs**.
 
-This extends beyond E-Commerce infrastructure to my **entire AI stack**: I run **[OpenClaw](https://openclaw.ai)** — a self-hosted AI agent platform — on my own servers. Personal assistants, work agents, mail bots and research agents operate fully under my control, powered by **Claude** (Anthropic), **OpenAI** and **Gemini** models.
+This extends beyond E-Commerce infrastructure to my **entire AI stack**: I run **OpenClaw** — a self-hosted AI agent platform — on my own servers. Personal assistants, work agents, mail bots and research agents operate fully under my control, powered by **Claude** (Anthropic), **OpenAI** and **Gemini** models.
 
 Infrastructure, security, observability (monitoring, logs, alerts), and deployments are fully under my control — ensuring **performance, reliability**, and rapid iterations without dependencies.
 
